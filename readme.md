@@ -4,8 +4,6 @@
 [![LangChain](https://img.shields.io/badge/LangChain-latest-green.svg)](https://github.com/langchain-ai/langchain)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-latest-orange.svg)](https://github.com/chroma-core/chroma)
 [![Ollama](https://img.shields.io/badge/Ollama-local-purple.svg)](https://ollama.com)
-[![Last Commit](https://img.shields.io/github/last-commit/khayyam90/langchain-rag-pdf)](https://github.com/khayyam90/langchain-rag-pdf/commits/main)
-[![License](https://img.shields.io/github/license/khayyam90/langchain-rag-pdf)](https://github.com/khayyam90/langchain-rag-pdf/blob/main/LICENSE)
 
 A fully local RAG (Retrieval-Augmented Generation) pipeline that ingests PDF files, stores embeddings in a ChromaDB vector store, and answers questions using a local Ollama LLM — no API keys, no cloud, fully private.
 
