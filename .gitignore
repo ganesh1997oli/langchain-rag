@@ -7,5 +7,6 @@ build/
 .venv/
 venv/
 vector_store/
-data/pdfs/*.pdf
+# Keep all user source files out of Git; existing tracked placeholders stay tracked.
+data/**
 .claude/
